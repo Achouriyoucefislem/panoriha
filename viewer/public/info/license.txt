@@ -1,0 +1,11 @@
+Model Information:
+* title:	HighPoly Info Sign (3D Icon)
+* source:	https://sketchfab.com/3d-models/highpoly-info-sign-3d-icon-d11a2951f1d24e458c6d5a6b3f79db73
+* author:	Alexander (https://sketchfab.com/pravdin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HighPoly Info Sign (3D Icon)" (https://sketchfab.com/3d-models/highpoly-info-sign-3d-icon-d11a2951f1d24e458c6d5a6b3f79db73) by Alexander (https://sketchfab.com/pravdin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
